@@ -21,3 +21,50 @@ PC's:
 PC1-geb1:		192.168.0.2
 PC2-geb1:		192.168.0.3
 PC3-geb1:		192.168.0.4
+
+
+
+Vlan's:
+
+Gebouw1:
+
+
+Aggregatieswitch verdiep 8
+
+Vlan 66:	Verdiep8  (poort Fa0/1)
+Vlan 67:	Verdiep1  (poort Fa0/2)
+Vlan 68:	Verdiep2  (poort Fa0/3)
+Vlan 69:	Verdiep3  (poort Fa0/12)
+Vlan 70:	Verdiep4  (poort Fa0/13)
+Vlan 71:	Verdiep21 (poort Fa0/14)
+
+Aggregatieswitch verdiep 21
+
+Vlan 66:	Verdiep8  (poort Fa0/1)
+Vlan 67:	Verdiep1  (poort Fa0/2)
+Vlan 68:	Verdiep2  (poort Fa0/3)
+Vlan 69:	Verdiep3  (poort Fa0/12)
+Vlan 70:	Verdiep4  (poort Fa0/13)
+Vlan 71:	Verdiep21 (poort Fa0/14)
+
+
+Gebouw2:
+
+
+Aggregatieswitch verdiep 8
+
+Vlan 66:	Verdiep8  (poort Fa0/1)
+Vlan 67:	Verdiep1  (poort Fa0/2)
+Vlan 68:	Verdiep2  (poort Fa0/3)
+Vlan 69:	Verdiep3  (poort Fa0/19)
+Vlan 70:	Verdiep4  (poort Fa0/20)
+Vlan 71:	Verdiep21 (poort Fa0/21)
+
+Aggregatieswitch verdiep 21
+
+Vlan 66:	Verdiep8  (poort Fa0/1)
+Vlan 67:	Verdiep1  (poort Fa0/2)
+Vlan 68:	Verdiep2  (poort Fa0/3)
+Vlan 69:	Verdiep3  (poort Fa0/19)
+Vlan 70:	Verdiep4  (poort Fa0/20)
+Vlan 71:	Verdiep21 (poort Fa0/21)
