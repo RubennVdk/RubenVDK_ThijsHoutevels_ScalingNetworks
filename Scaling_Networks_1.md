@@ -67,7 +67,7 @@ Zorg dat volgende technologieën gebruikt worden:
 5. STP
 6. Etherchannel en LACP
 7. HSRP
-8. Dynamische NAT1
+8. Dynamische NAT
 9. QoS (optioneel)
 
 
