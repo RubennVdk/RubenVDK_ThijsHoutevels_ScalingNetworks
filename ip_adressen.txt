@@ -68,3 +68,5 @@ Vlan 68:	Verdiep2  (poort Fa0/3)
 Vlan 69:	Verdiep3  (poort Fa0/19)
 Vlan 70:	Verdiep4  (poort Fa0/20)
 Vlan 71:	Verdiep21 (poort Fa0/21)
+
+1
